@@ -12,6 +12,7 @@ I'm getting improved my skills on data preprocessing, feature engineering, machi
 
 
 <br />
+
 [linkedin]: https://www.linkedin.com/in/u%C4%9Fur-y%C4%B1ld%C4%B1z-41259220a/
 [gmail]: mailto:uguryldz5@gmail.com
 <br />
