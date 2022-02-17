@@ -31,7 +31,7 @@ I'm getting improved my skills on data preprocessing, feature engineering, machi
 <br />
 
 [git]: https://git-scm.com/
-[github]: https://github.com/IbrahimTalha0
+[github]: https://github.com/uguryildizz
 [python]: https://www.python.org/
 [sql]: https://www.mysql.com/
 [jupyter]: https://jupyter.org/
